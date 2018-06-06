@@ -1,2 +1,23 @@
 # rkiyoshi
 ずん ずん ずん ずん どこ 
+
+
+```
+$time target/debug/rkiyoshi
+ZUN! DOKO! DOKO! ZUN! DOKO! DOKO! DOKO! ZUN! DOKO! ZUN! DOKO! DOKO! DOKO! DOKO! DOKO! DOKO! ZUN! DOKO! DOKO! DOKO! DOKO! DOKO! DOKO! DOKO! DOKO! ZUN! DOKO! DOKO! DOKO! DOKO! DOKO! ZUN! ZUN! DOKO! ZUN! DOKO! ZUN! DOKO! ZUN! DOKO! ZUN! DOKO! DOKO! DOKO! ZUN! ZUN! ZUN! DOKO! DOKO! ZUN! DOKO! ZUN! ZUN! DOKO! ZUN! DOKO! ZUN! ZUN! DOKO! DOKO! DOKO! ZUN! ZUN! ZUN! ZUN! DOKO! KIYOSHI!!!!!!!!
+count:66
+
+real    0m0.003s
+user    0m0.000s
+sys     0m0.000s
+```
+
+```
+$time python3 python/main.py
+DOKO ZUN DOKO DOKO ZUN DOKO DOKO DOKO ZUN ZUN ZUN DOKO DOKO DOKO ZUN ZUN DOKO DOKO DOKO ZUN DOKO ZUN DOKO ZUN ZUN ZUN ZUN DOKO KIYOSHI!!!!!!!!
+count:28
+
+real    0m0.027s
+user    0m0.020s
+sys     0m0.004s
+```
